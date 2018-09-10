@@ -4,6 +4,8 @@ Parallelize a simple program using SSE and mpi. Use the script to compile and ru
 
 The program computes a simplified version of ω statistic for N random data and prints the greatest value. Also, it times the calculations. 
 
+Benchmarked on dual Intel Xeons E5620 @ 2.40GHz with 8GB DDR3 memory.
+
 
 ## Parallelization
 
