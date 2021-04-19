@@ -1,4 +1,4 @@
-# HRY418-project-2
+# parallelized-DNA-omega-statistic
 
 Parallelize a simple program using SSE and mpi. Use the script to compile and run all the files. Needs lamboot and MPICH to run.
 
